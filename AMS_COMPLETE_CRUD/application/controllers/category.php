@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Category extends Admin
+class Category extends Admin //admin
 {
 	public function __construct()
 	{
